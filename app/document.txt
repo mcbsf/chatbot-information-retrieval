@@ -1,0 +1,49 @@
+Mario Cardoso Batista da Silva Filho
+Senior Software Engineer
+mario.cardoso.solutions@gmail.com - +55 (81) 99794-6655 - Recife, Brazil
+6 years of professional experience - 10 years of academic experience
+
+PROFESSIONAL EXPERIENCE
+Creditas as Senior Software Engineer
+Hard Skills: python(flask, pandas, pytest), javascript(react), terraform, aws, gcp, circleci, postgres, sqs, metabase, kibana, prometheus 
+Stakeholders management to create an efficient backlog
+Integrations between People fintech systems with ETL processes 
+Do automations to generate efficiency on People processes
+
+BTG Pactual as Senior Software Engineer
+Hard Skills: python(fastapi, pandas, pytest, pyspark), javascript(react), AWS(cloudformation, sqs, athena, glue, cloudwatch), C#(.NET), azure devops, jenkins, postgres, dynamo, kafka, Worked in a project at BTG Pactual, one of biggest investment banks in LATAM, as Software Engineer focused in Data Engineering
+Cross project to segment and map costs to help interested areas
+
+Avantia as Software Developer
+Hard Skills: python(opencv, tornado), typescript(angular), aws, azure devops, postgres, grey log 
+Developed and maintained video monitoring systems to manage Artificial Intelligence services signals, focused on security. 
+Euromecantil - Software Engineer
+Hard Skills: python(pandas, selenium), php(laravel), javascript(vuejs), digital ocean, postgres 
+Started as salesman and finished as IT manager in this fintech startup
+Planned the architecture change from monolith to microservices
+Managed a 3 person team to build CRM, ERP and auditing systems.
+
+VTB Solutions - Intern Software Developer
+FEB 2019 - JUN 2019
+Hard Skills: C#(.NET), Power BI, MongoDB 
+Software Developer in software factory to build ERP and CRM to several clients
+Cin-UFPE - Artificial Intelligence Researcher
+JUN 2018 - MAY 2019
+Hard Skills: python(scikit-learn, nltk, pandas, numpy, matplotlib), jupyter notebook, google collab 
+Forecast crypto coins values based on sentiment analysis, using natural language processing techniques on unstructured comments about them on reddit
+Bisa web - Intern Software Developer
+FEB 2017 - JAN 2018
+Hard Skills: PHP(CodeIgniter, Zend), TortoiseSVM, MySQL. 
+Software Developer in a company to build ERP to analyze clients website usage and profits.
+
+
+EDUCATION
+Computer Science, Universidade Federal de Pernambuco - Bachelor Degree
+JUL 2013 - JUL 2021
+
+VOLUNTEERING
+Computer Science, Universidade Federal de Pernambuco - Monitor
+JAN 2014 - JAN 2015
+
+Gave Object Oriented Programing(OOP) lessons in Java to new students
+Designed and evaluated projects and exercises
